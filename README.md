@@ -1,1 +1,1 @@
-# Git Flow sample
+# Git Flow feature
