@@ -1,1 +1,1 @@
-# Git Flow feature
+# Git Flow release
